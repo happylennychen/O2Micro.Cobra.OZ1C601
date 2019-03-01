@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Root usage="ExtensionDescriptor" chip="OZ1C601"
       chiptype="0500" bustype ="I2C" libname ="O2Micro.Cobra.OZ1C601" AMTEnable="false"
-      AppVersion="2.00.03" OCEVersion="1.00.00.00" ProjectCode="OC1C601Y ">
+      AppVersion="2.00.03" OCEVersion="1.00.01.00" ProjectCode="OC1C601Y ">
   <Part Name="DBConfig">
     <ChipName>OZ1C601</ChipName>
     <ChipVersion>A0</ChipVersion>
-    <UserType>T</UserType>
-    <Date>20181224</Date>
+    <UserType>y</UserType>
+    <Date>20190219</Date>
     <HasCom>true</HasCom>
     <HasAMT>false</HasAMT>
   </Part>
